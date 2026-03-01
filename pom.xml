@@ -24,7 +24,7 @@
                     <version>2.5.0</version>
                 </dependency>
             
-            <!-- comentario de prueba para Github/Jenkins -->
+            <!-- comentario de prueba para Github/Jenkins 2-->
             
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
